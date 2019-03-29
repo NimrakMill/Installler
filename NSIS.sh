@@ -1,42 +1,69 @@
 ===================
 clear
 
-figlet -f slant Installer Tool
+figlet -f slant Installler Tools
 
 echo "========================================" | lolcat
-echo "Tools By NimrakMill" | lolcat
-echo "Tools Installer" | lolcat
-echo "Team : CYBER N.S.I.S (Nsis)" | lolcat
+echo "Tools By NimrakMill" | lolcat figlef
+echo "Tools Installer" | lolcat figlet
+echo "Team : CYBER N.S.I.S (Nsis)" | lolcat figlet
 echo "========================================" | lolcat
 echo
-echo "==================" | lolcat
-echo "1. Installer BAJINGAN"
+echo ""
+echo ""
+echo "#       #     #######     ######### $yellow " | lolcat
+echo "#       #     #           # $red " | lolcat
+echo "#########     #           # $green " | lolcat
+echo "    #         ######      ########### $yellow " | lolcat
+echo "    #         #                     # $green " | lolcat
+echo "    #         #######     ############ $red " | lolcat
+echo ""
+echo "(+)----------------- THANKS : TU4NG4L4U  $yellow " | lolcat
+echo "(+)---------------------------------------(+)$green " | lolcat
+echo ""
+echo ""
+echo "#     #     #     #####         ######### $red " | lolcat
+echo "#     # #   #     #    #       #         # $red " | lolcat
+echo "#     #  #  #     #     #      #         # $red " | lolcat
+echo "#     #   # #     #      #     #         # $red " | lolcat
+echo "#     #    ##     #     #      #         # $red " | lolcat
+echo "#     #     #     ######        ######### $red " | lolcat
+echo
+echo
+echo ""
+echo ""
+echo "\033[34;1m  99\033[37;1m.\033[32;1mKeluar\033[37;1m"
+echo ""
+echo "\033[32;1m ──> \033[32;1m Pilih pilih aja gk usah 
+komen!\033[32;1m"
 echo "=================="
-echo "2.Installer TU4N G4L4U"
+echo "1. Installer BAJINGAN $red " | lolcat
 echo "=================="
-echo "3.Install Spam"
+echo "2.Installer TU4N G4L4U $green " | lolcat
 echo "=================="
-echo "4.Installer CrewBot"
+echo "3.Install Spam $yellow " | lolcat
 echo "=================="
-echo "5.install MBF"
+echo "4.Installer CrewBot $orange " | lolcat
 echo "=================="
-echo "6.Hack Cctv"
+echo "5.install MBF $red " | lolcat
 echo "=================="
-echo ".7 installer TUANB4DUT"
+echo "6.Hack Cctv $green " | lolcat
 echo "=================="
-echo ".8 Hack instagram"
+echo ".7 installer TUANB4DUT $yellow " | lolcat
 echo "=================="
-echo ".9 Tembax Xl"
+echo ".8 Hack instagram $orange " | lolcat
 echo "=================="
-echo ".10 Tes Kecepatan Jaringan"
+echo ".9 Tembax Xl $red " | lolcat
 echo "=================="
-echo ".11 Hack FB DLL"
+echo ".10 Tes Kecepatan Jaringan $green " | lolcat
 echo "=================="
-echo ".12 Spamm WA"
+echo ".11 Hack FB DLL $yellow " | lolcat
+echo "=================="
+echo ".12 Spamm WA $orange " | lolcat
 echo ".================="
-echo ".13 200+ Tools"
+echo ".13 200+ Tools $red " | lolcat
 echo "=================="
-echo ".14 Install OSIF"
+echo ".14 Install OSIF $green " | lolcat
 echo "=================="
 read -p "r00t@NimrakMill~# " pill
 if [ $pill = 1 ]
